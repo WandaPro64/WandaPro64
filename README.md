@@ -55,7 +55,7 @@ Here are some of the technologies and tools I enjoy working with:
 
 ## 📊 GitHub Statistics
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WandaPro64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
 </p>
 
@@ -63,7 +63,7 @@ Here are some of the technologies and tools I enjoy working with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WandaPro64&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p -->
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WandaPro64&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
