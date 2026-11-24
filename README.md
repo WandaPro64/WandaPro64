@@ -1,16 +1,65 @@
-## Hi there 👋
 
-<!--
-**WandaPro64/WandaPro64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Wanda Pro 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Computer Engineer | Software Developer | Technology Enthusiast
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Building software and practical technology solutions.
+  Passionate about software engineering, IoT, automation,
+  and exploring emerging technologies.
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Engineering graduate / student
+- 💻 Interested in software development and engineering
+- 🌱 Currently learning and exploring new technologies
+- 🔭 Working on software and technology projects
+- ⚡ Interested in IoT, automation, AI, and open-source development
+
+### 🛠️ Technologies & Tools
+
+**Programming Languages**
+
+- Python
+- JavaScript
+- SQL
+
+**Development & Tools**
+
+- Git & GitHub
+- Node.js
+- Linux
+- Docker
+
+**Areas of Interest**
+
+- Software Engineering
+- Web Development
+- Internet of Things (IoT)
+- Artificial Intelligence
+- Automation Systems
+
+### 🚀 Featured Projects
+
+<!-- Replace these examples with your actual repositories -->
+
+- **Project Name** – Brief description of what the project does.
+- **Project Name** – Brief description of the problem it solves.
+- **Project Name** – Brief description of its functionality.
+
+### 🤝 Connect With Me
+
+- GitHub: https://github.com/WandaPro64
+- LinkedIn: YOUR_LINKEDIN_URL
+- Portfolio: YOUR_PORTFOLIO_URL
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
