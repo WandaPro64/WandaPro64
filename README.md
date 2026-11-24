@@ -55,8 +55,6 @@
 ### 🤝 Connect With Me
 
 - GitHub: https://github.com/WandaPro64
-- LinkedIn: YOUR_LINKEDIN_URL
-- Portfolio: YOUR_PORTFOLIO_URL
 
 ---
 
