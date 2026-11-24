@@ -3,14 +3,14 @@
 ### 💻 Computer Engineer | Software Developer | Technology Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineer;Software+Developer;Building+Practical+Technology+Solutions;Always+Learning+and+Building" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineer;Software+Developer;Technology+Enthusiast;Building+Practical+Technology+Solutions;Always+Learning+and+Building" alt="Typing introduction" />
 </p>
 
 <p align="center">
   <a href="https://github.com/WandaPro64">
     <img src="https://img.shields.io/github/followers/WandaPro64?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=WandaPro64&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  <!-- img src="https://komarev.com/ghpvc/?username=WandaPro64&style=for-the-badge&color=0e75b6" alt="Profile Views"/ -->
 </p>
 
 ---
