@@ -29,19 +29,19 @@ I enjoy turning ideas into functional applications, experimenting with new techn
 
 Here are some of the technologies and tools I enjoy working with:
 
-- **Programming Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks & Technologies:** Node.js, Bootstrap, Vue.js
-- **Databases & Tools:** MySQL, SQLite, Git, GitHub, Docker, Linux, VS Code
-- **Areas of Interest:** Software Engineering, Backend Development, Web Application Development, IoT, Artificial Intelligence, Smart Home Automation, Systems Integration
+- **Programming Languages:** Python, JavaScript, HTML, Bootstrap, CSS, PHP
+- **Frameworks & Technologies:** Node.js, Bootstrap, Tailwind CSS, Vue.js, Next.js, Capacitor + Ionic
+- **Databases & Tools:** MySQL, SQLite, PostgreSQL, Git, GitHub, Docker, Linux, VS Code/Google Antigravity, DBeaver
+- **Areas of Interest:** Software Engineering, Full Stack Development, Web Application Development, IoT, Artificial Intelligence, Automated Systems, Systems Integration, Software and Hardware Integration
 
 ---
 
-## 🔭 Featured Projects
+<!-- ## 🔭 Featured Projects
 
 - 🏠 **Smart Elderly Home Automation (SEHA)**  
   A smart home automation solution designed to help elderly people control household appliances, receive emergency alerts, and monitor their home environment.  
   **Technologies:** Python, Raspberry Pi, Node.js, SQLite, IoT  
-  <!-- Add your SEHA repository URL when available -->
+  <-- Add your SEHA repository URL when available ->
 
 - 🌐 **SkillWave**  
   A software project focused on building digital solutions.  
@@ -49,7 +49,7 @@ Here are some of the technologies and tools I enjoy working with:
 
 - 🚀 **More Projects**  
   Explore my other repositories and ongoing work on GitHub.  
-  **[View All Repositories](https://github.com/WandaPro64?tab=repositories)**
+  **[View All Repositories](https://github.com/WandaPro64?tab=repositories)** -->
 
 ---
 
@@ -59,9 +59,9 @@ Here are some of the technologies and tools I enjoy working with:
   <img src="https://github-readme-stats.vercel.app/api?username=WandaPro64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
 </p>
 
-<p>
+<!-- p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WandaPro64&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+</p -->
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WandaPro64&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -79,14 +79,14 @@ Here are some of the technologies and tools I enjoy working with:
 
 ## 📬 Connect with Me
 
-- 📸 **Instagram:** [Instagram Profile](YOUR_INSTAGRAM_URL)
-- 📘 **Facebook:** [Facebook Profile](YOUR_FACEBOOK_URL)
-- 📧 **Email:** [YOUR_EMAIL_ADDRESS](mailto:YOUR_EMAIL_ADDRESS)
+- 📸 **Instagram:** https://www.instagram.com/wanda.pro.64/
+- 📘 **Facebook:** https://web.facebook.com/wanda.pro.64
+- 📧 **Email:** mailto:wandalusizi@gmail.com
 
 ---
 
 <p align="center">
-  <i>Building, learning, experimenting, and improving one project at a time.</i>
+  <i>Building, learning, experimenting, and improving one project at a time. Let's build a future together!!</i>
 </p>
 
 <p align="center">
