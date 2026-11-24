@@ -30,7 +30,7 @@ I enjoy turning ideas into functional applications, experimenting with new techn
 Here are some of the technologies and tools I enjoy working with:
 
 - **Programming Languages:** Python, JavaScript, HTML, Bootstrap, CSS, PHP
-- **Frameworks & Technologies:** Node.js, Bootstrap, Tailwind CSS, Vue.js, Next.js, Capacitor + Ionic
+- **Frameworks & Technologies:** Node.js, Bootstrap, Tailwind CSS, Vue.js, Next.js, Capacitor + Ionic, React/ReactNative
 - **Databases & Tools:** MySQL, SQLite, PostgreSQL, Git, GitHub, Docker, Linux, VS Code/Google Antigravity, DBeaver
 - **Areas of Interest:** Software Engineering, Full Stack Development, Web Application Development, IoT, Artificial Intelligence, Automated Systems, Systems Integration, Software and Hardware Integration
 
@@ -81,7 +81,7 @@ Here are some of the technologies and tools I enjoy working with:
 
 - 📸 **Instagram:** https://www.instagram.com/wanda.pro.64/
 - 📘 **Facebook:** https://web.facebook.com/wanda.pro.64
-- 📧 **Email:** mailto:wandalusizi@gmail.com
+- 📧 **Email:** wandalusizi@gmail.com
 
 ---
 
