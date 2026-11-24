@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Wanda Pro 👋</h1>
+<h1 align="center">Hi, I'm Wanda Lusizi Kamanga 👋</h1>
 
 <h3 align="center">
   Computer Engineer | Software Developer | Technology Enthusiast
