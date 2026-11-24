@@ -44,9 +44,9 @@
 - Artificial Intelligence
 - Automation Systems
 
-### 🚀 Featured Projects
+<!-- ### 🚀 Featured Projects
 
-<!-- Replace these examples with your actual repositories -->
+ Replace these examples with your actual repositories 
 
 - **Project Name** – Brief description of what the project does.
 - **Project Name** – Brief description of the problem it solves.
@@ -57,7 +57,7 @@
 - GitHub: https://github.com/WandaPro64
 
 ---
-
+-->
 <p align="center">
   <i>Building, learning, and improving one project at a time.</i>
 </p>
