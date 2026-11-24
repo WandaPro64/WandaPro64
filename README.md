@@ -19,12 +19,12 @@
 
 ## 🚀 About Me
 
-I'm a Computer Engineer and Software Developer passionate about building practical technology solutions and exploring how software can solve real-world problems.
+I'm a Computer Engineer passionate about building practical technology solutions and exploring how software, hardware, IoT and embeded systems can solve real-world problems.
 
 - 💻 Interested in software engineering and application development.
 - 🌱 Continuously learning new technologies and improving my development skills.
 - 🔭 Working on software projects and exploring innovative technology solutions.
-- ⚙️ Interested in backend development, web technologies, IoT, and automation.
+- ⚙️ Interested in full stack development, hardware and software integration web technologies, IoT, and automation.
 - 🤖 Exploring artificial intelligence and intelligent software applications.
 - 🤝 Open to collaborating on interesting software and open-source projects.
 
