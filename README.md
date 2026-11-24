@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Engineering graduate / student
+- 🎓 Computer Engineering pending graduate
 - 💻 Interested in software development and engineering
 - 🌱 Currently learning and exploring new technologies
 - 🔭 Working on software and technology projects
